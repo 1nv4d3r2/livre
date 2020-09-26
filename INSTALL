@@ -1,0 +1,9 @@
+Building Livre
+
+See doc/readme-qt.rst for instructions on building Livre-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Livre.
+
+See doc/build-*.txt for instructions on building livred,
+the intended-for-services, no-graphical-interface, reference
+implementation of Livre.
